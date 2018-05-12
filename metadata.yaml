@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1983
     wikipedia: http://en.wikipedia.org/wiki/Robert_Blatchford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43466#Not-GuiltyA-Defence-Of-The-Bottom-Dog
 gutenberg_issued: '2013-08-14'
 gutenberg_type: Text
 identifiers:
